@@ -8,3 +8,6 @@ Android studio와 Unity를 활용한 턴제 RPG
 
 게임 영상   
 <https://youtu.be/KzB74tIwVh0>
+
+UCC   
+<https://youtu.be/oc9KPC2V_F0>
